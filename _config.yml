@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "这是一个发源于RIVERSIDE的故事 <br> 一个在456号线上飞驰而过的故事 <br> 不需要什么小甜文去粉饰 <br> 就像拼乐高时你我之间的默契 <br> 举手投足间仿佛就是全世界"
+sidebar-about-description: "起源于RIVERSIDE <br> 由456号线串联 <br> 天蝎&双鱼 94&95 <br> Rosy&Jimmy <br> 我和你"
 sidebar-avatar: /img/touxiang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
