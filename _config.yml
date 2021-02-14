@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     rosywang
-zhihu_username:     rosywang
-github_username:    rosywang
+weibo_username:     u/2865665142
+zhihu_username:     zheng-xiao-yu-59
+github_username:    muggleKing
 twitter_username:   rosywang
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
