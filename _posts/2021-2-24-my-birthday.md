@@ -1,10 +1,10 @@
 ---
 layout:       post 
-title:        “祝我生日快乐” 
-subtitle:     ” \”26岁啦\”” 
+title:        "祝我生日快乐" 
+subtitle:     " \"26岁啦\"" 
 date:         2021-2-24 21:00:00 
-author:       “Jimmy Cheng” 
-header-img:   “img/home-bg-o.jpg” 
+author:       "Jimmy Cheng" 
+header-img:   "img/home-bg-o.jpg" 
 tags: 
       - rosy 
       - 恋爱
