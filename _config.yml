@@ -1,7 +1,7 @@
 # Site settings
 title: Rosy Wang
 SEOTitle: 1028郑候群 | Rosy Wang
-header-img: img/post-bg-universe.jpg
+header-img: img/home-zz.jpg
 email: zhengjiayuuu@zju.edu.cn
 description: ""
 keyword: ""
@@ -78,8 +78,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "起源于RIVERSIDE <br> 由456号线串联 <br> 天蝎&双鱼 94&95 <br> Rosy&Jimmy <br> 我和你"
-sidebar-avatar: /img/touxiang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "两个诸暨木卵的 <br> 联庄爱情故事 <br> "
+sidebar-avatar: /img/we18.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -103,7 +103,7 @@ page-mathjax: false
 # Friends
 friends: [
     {
-        title: "Bern3rsH Blog",
-        href: "http://bernersh.github.io"
+        title: "Jimmy Cheng",
+        href: "https://weibo.com/2884321140/profile?profile_ftype=1&is_all=1#_0"
     }
 ]
