@@ -78,8 +78,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "两个诸暨木卵的 <br> 联庄爱情故事💖 <br> "
-sidebar-avatar: /img/we18.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "两个诸暨木卵的 <br> 联庄の爱情故事 <br> "
+sidebar-avatar: /img/we19.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
