@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "我只求心安"
-subtitle:     " \"又是不在一起的令我生气的夜晚\""
+subtitle:     " \"又是不在一起的生气的夜晚\""
 date:         2021-2-25 19:45:00
 author:       "Jimmy Cheng"
 header-img:   "img/1.jpeg"
